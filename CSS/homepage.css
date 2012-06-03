@@ -1,6 +1,11 @@
 
-.container {
-	border : 1px solid black;
-	padding:5%;
-	color : red;
+.name {
+	box-shadow: 0 0 5px lightgray;
+	border-radius: 5px;
+	background-color : #2f96b4;
+	color : white;
+	font-size: 50px;
+	float: left;
+	padding:5px;
+	display:block;
 }
